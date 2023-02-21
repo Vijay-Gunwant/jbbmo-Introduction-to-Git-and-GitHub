@@ -2,6 +2,7 @@
 # This script calculates simple interest given principal, annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
 # This file is mine tooo
+# I merged this in main branch
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
 # <Vijay-Gunwant>
